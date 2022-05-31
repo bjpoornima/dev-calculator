@@ -5,4 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>devops-calculator</name>
   <description>To demonstrate devops tools</description>
+  <properties>
+    <sonar.organization>bjpoornima</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 </project>
